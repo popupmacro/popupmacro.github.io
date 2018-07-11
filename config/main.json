@@ -431,7 +431,6 @@
     { "addr": "0x65be44c747988fbf606207698c944df4442efe19", "name": "FUCK", "decimals": 4 },
     { "addr": "0x660b612ec57754d949ac1a09d0c2937a010dee05", "name": "BCD", "decimals": 6 },
     { "addr": "0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66", "name": "CTX", "decimals": 18 },
-    { "addr": "0x66497a283e0a007ba3974e837784c6ae323447de", "name": "PT", "decimals": 18 },
     { "addr": "0x667088b212ce3d06a1b553a7221e1fd19000d9af", "name": "WINGS", "decimals": 18 },
     { "addr": "0x6678e467fa5ccfbdc264d12f4b8b28fe4661606b", "name": "DCNT", "decimals": 1 },
     { "addr": "0x671abbe5ce652491985342e85428eb1b07bc6c64", "name": "QAU", "decimals": 8 },
@@ -1008,6 +1007,8 @@
     { "addr": "0x55296f69f40ea6d20e478533c15a6b08b654e758", "name": "XYO", "decimals": 18 },
     { "addr": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c", "name": "BERRY", "decimals": 14 },
     { "addr": "0x58ded6994124b4fff298f1416aca3fc9cdba37b2", "name": "JOI", "decimals": 18 },
+    { "addr": "0x7a74c427c833bad2a638e0fb203ba2c728f557c1", "name": "RDC", "decimals": 18 },
+    { "addr": "0xfcd22febddc9c52bfefc2e762217dc4cd0325bd3", "name": "PT", "decimals": 2 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
   "defaultPair": { "token": "WABI", "base": "ETH" }
