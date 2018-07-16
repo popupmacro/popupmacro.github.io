@@ -932,7 +932,7 @@
     { "addr": "0xedcd82784027001d7af57a34501c65a25f97fee4", "name": "DATL", "decimals": 18 },
     { "addr": "0xedf2d3e5fb70ead2e6d8fe96845a5e59d52d2044", "name": "NCH", "decimals": 12 },
     { "addr": "0xee609fe292128cad03b786dbb9bc2634ccdbe7fc", "name": "POS", "decimals": 18 },
-    { "addr": "0xee688d34c1cc02fc81b2f3f05c489e05d4c0b6ba", "name": "EM", "decimals": 1 },
+    { "addr": "0xa0945daf5313e7878763598a7975e8a86c45b129", "name": "EM", "decimals": 1 },
     { "addr": "0xee9704a1d61aa2c1401e2303ac7e1f81c29ed860", "name": "CLASH", "decimals": 0 },
     { "addr": "0xeeac3f8da16bb0485a4a11c5128b0518dac81448", "name": "TEU", "decimals": 18 },
     { "addr": "0xeee2d00eb7deb8dd6924187f5aa3496b7d06e62a", "name": "TIG", "decimals": 18 },
