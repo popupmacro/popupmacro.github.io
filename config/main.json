@@ -64,7 +64,7 @@
     { "addr": "0x0879e0c9822b75f31f0b0ed2a30be9f484a57c2f", "name": "LTG", "decimals": 0 },
     { "addr": "0x0886949c1b8c412860c4264ceb8083d1365e86cf", "name": "BTCE", "decimals": 8 },
     { "addr": "0x089a6d83282fb8988a656189f1e7a73fa6c1cac2", "name": "PGL", "decimals": 18 },
-    { "addr": "0x089a6d83282fb8988a656189f1e7a73fa6c1cac2", "name": "LPG", "decimals": 18 },
+    { "addr": "0x099a6d83282fb8988a656189f1e7a73fa6c1cac2", "name": "LPG", "decimals": 18 },
     { "addr": "0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6", "name": "DCN", "decimals": 0 },
     { "addr": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8", "name": "TNT", "decimals": 8 },
     { "addr": "0x08f8117155aa9414b67113a47ad269d47974e9dc", "name": "DHG", "decimals": 18 },
